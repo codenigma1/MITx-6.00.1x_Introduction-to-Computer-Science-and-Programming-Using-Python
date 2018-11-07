@@ -3,9 +3,9 @@
 
 # Couse Syllabus:
 Lecture 1 – Introduction to Python:
-Knowledge
-Machines
-Languages
+-- Knowledge
+-- Machines
+-- Languages
 Types
 Variables
 Operators and Branching
