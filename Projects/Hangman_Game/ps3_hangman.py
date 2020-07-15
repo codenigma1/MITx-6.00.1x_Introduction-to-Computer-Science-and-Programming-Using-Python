@@ -124,7 +124,7 @@ def hangman(secretWord):
     print('-------------')
     print('Instruction: ')
     print('* Please put the letter at a time!')
-    print('* Putting correct  and repeated letter not removing your hand')
+    print('* Putting correct and repeat letter are not reduce from your guess limit')
     print('-------------')
     while j >= 1:
         # if lettersGuessed == secretWord:
