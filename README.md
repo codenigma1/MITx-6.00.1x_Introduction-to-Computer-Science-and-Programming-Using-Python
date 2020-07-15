@@ -2,9 +2,9 @@
 "Introduction to Computer Science and Programming Using Python," is 3 credits course from MITx on the edX platform. In this course provide basic to hard excercise and problem sets. So, the user get gradually understanding in python. 
 
 # Projects:
-1. Hangman: If you have dare, beat the computer.
-2. WordGame: Create the word with possible letter. It build both version, first play the game by yourself, then repeat the same game with computer and see who make highest score.
-3. Encryption and Decryption messages: This basic encryption and decryption message. it remind me Alan Turing enigma machine. 
+1. [Hangman](https://repl.it/@codenigma1/UltimateDescriptiveFlashdrive-1): If you have dare, beat the computer.
+2. [WordGame](https://repl.it/@codenigma1/OnerlookedDifferentVariable): Create the word with possible letter. It build both version, first play the game by yourself, then repeat the same game with computer and see who make highest score.
+3. [Encryption and Decryption messages](https://repl.it/@codenigma1/CheapAdventurousLogic): This basic encryption and decryption message. it remind me Alan Turing enigma machine. 
 
 # Couse Syllabus:
 # Week 1
