@@ -1,6 +1,11 @@
 # MITx: 6.00.1x
 "Introduction to Computer Science and Programming Using Python," is 3 credits course from MITx on the edX platform. In this course provide basic to hard excercise and problem sets. So, the user get gradually understanding in python. 
 
+# Projects:
+1. Hangman: If you have dare the beat the computer.
+2. WordGame: Create the word with possible keyword. The same challege here beat the computer if you can.
+3. Encryption and Decryption messages: This basic encryption and decryption message. it remind me Alan Turing enigma machine. 
+
 # Couse Syllabus:
 # Week 1
 Lecture 1 – Introduction to Python:
