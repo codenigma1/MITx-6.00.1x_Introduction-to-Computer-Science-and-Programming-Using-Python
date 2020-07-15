@@ -276,7 +276,7 @@ print(s)
 
 
 #Example test case (PlaintextMessage)
-plaintext = input('Enter the message that you want to be encrypt: ')
+plaintext = input('Enter the message or words from word.txt that you want to be encrypt: ')
 encrypt_msg = PlaintextMessage(plaintext, 2)
 # print('Expected Output: Pqpugpug yqtfu')
 # print('"Nonsense words" now is encrypting......')
