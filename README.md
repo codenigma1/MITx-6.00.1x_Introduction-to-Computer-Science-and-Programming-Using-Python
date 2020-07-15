@@ -25,6 +25,7 @@ Lecture 3 – Simple Programs:
 •	Bisection Search
 •	Floats and Fractions
 •	Newton-Raphson
+
 Lecture 4 – Functions:
 •	Decomposition and Abstraction
 •	Functions and Scope
@@ -106,5 +107,3 @@ Lecture 14 – Summary
 
 
 # Final Exam (8 hours time limits)
-
-
