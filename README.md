@@ -10,6 +10,7 @@ Lecture 1 – Introduction to Python:
 •	Types
 •	Variables
 •	Operators and Branching
+
 Lecture 2 – Core elements of programs
 •	Bindings
 •	Strings
@@ -44,6 +45,7 @@ Lecture 5 – Tuples and Lists:
 •	Lists
 •	List Operations
 •	Mutation, Aliasing, Cloning
+
 Lecture 6 – Dictionaries:
 •	Functions as Objects
 •	Dictionaries
@@ -60,6 +62,7 @@ Lecture 7 – Debugging:
 •	Bugs
 •	Debugging
 •	Debugging Examples
+
 Lecture 8 – Assertions and Exceptions
 •	Assertions
 •	Exceptions
@@ -74,6 +77,7 @@ Lecture 9 – Classes and Inheritance:
 •	Why OOP
 •	Hierarchies
 •	Your Own Types
+
 Lecture 10 – An Extended Example:
 •	Building a Class
 •	Viualizing the Hierarchy
@@ -88,6 +92,7 @@ Lecture 11 – Computational Complexity:
 •	Big Oh Notation
 •	Complexity Classes
 •	Analyzing Complexity
+
 Lecture 12 – Searching and Sorting Algorithms:
 •	Indirection
 •	Linear Search
