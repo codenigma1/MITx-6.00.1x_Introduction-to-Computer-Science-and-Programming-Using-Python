@@ -1,7 +1,7 @@
 # MITx: 6.00.1x
 "**Introduction to Computer Science and Programming Using Python**," is 3 credits course from MITx on the edX platform. In this course provide basic to hard excercise and problem sets. So, the user get gradually understanding in python. 
 
-<img src="MIT_python.PNG" width = 200>
+<img src="MIT_python.PNG" width = 500>
 
 # Projects:
 1. [Hangman](https://repl.it/@codenigma1/UltimateDescriptiveFlashdrive-1): If you have dare, beat the computer.
